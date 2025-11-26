@@ -1,11 +1,11 @@
 <!-- ─────────────────────────────────────────────── -->
 <!-- 🌈 ANIMATED HEADER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW0yNml2bGwwbGhlNXJka2M1ZGxqN2I2NHB0ZmhxYnRqdjZtaTBpNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif" width="420" />
+  
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00E5FF&center=true&vCenter=true&width=850&size=32&lines=Welcome+to+Basic+C%2B%2B+Programs!;My+Journey+of+Learning+C%2B%2B+🚀;Simple+Codes+💻+Big+Concepts+🌟;Consistency+is+the+Key+🔑" />
+  
 </p>
 
 <!-- ─────────────────────────────────────────────── -->
