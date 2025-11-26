@@ -60,8 +60,3 @@ Perfect for anyone starting their **C++ programming journey**!
 - Classes & Objects  
 - Constructors  
 - Access Modifiers  
-
-## 🛠️ Tech Used
-
-<p align="center">
-  <img src="https://ski
