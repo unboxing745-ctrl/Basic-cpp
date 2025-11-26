@@ -1,68 +1,63 @@
-<!-- ─────────────────────────────────────────────── -->
-<!-- 🔥 HEADER ANIMATION -->
+<!-- 🌟 HEADER ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Welcome+to+Basic+C%2B%2B+Repository!;Your+First+Step+Into+Programming+🚀;Learning+Syntax+%26+Core+Fundamentals;Building+Strong+Coding+Foundations+💡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Welcome+to+Basic+C%2B%2B+Repository!;Start+Your+Coding+Journey+Here;Learn+Syntax+Logic+%26+Programming+Basics;Code.+Compile.+Run.+Repeat+🔥" />
 </p>
 
-<!-- ─────────────────────────────────────────────── -->
-<h1 align="center">🌟 Basic C++ – Learn, Code & Grow 🌟</h1>
+<!-- 🌈 TITLE -->
+<h1 align="center">🚀 Basic C++ – Coding Starts Here 🚀</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="350" />
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="330" />
 </p>
 
 ---
 
 ## 📘 About This Folder
 
-This folder contains all the **beginner-friendly C++ concepts** including:  
-✔ Syntax basics  
-✔ Variables & Data types  
-✔ Loops & Conditions  
-✔ Functions  
-✔ Arrays  
-✔ Pointers  
-✔ OOP basics  
+This folder contains **beginner-friendly C++ programs** to help you:
 
-Perfect for anyone starting their **C++ programming journey**!
+✔ Understand syntax  
+✔ Learn basic concepts  
+✔ Build logic  
+✔ Prepare for DSA  
 
 ---
 
 ## 🚀 What You Will Learn
 
 ### 🔹 **1. C++ Fundamentals**
-- Input/Output  
+- Input / Output  
 - Variables  
-- Data Types  
 - Operators  
+- Data Types  
 
-### 🔹 **2. Control Flow**
-- If-Else  
-- Switch Case  
+### 🔹 **2. Control Structures**
+- If–Else  
+- Nested Conditions  
 - Loops (for, while, do-while)
 
 ### 🔹 **3. Functions**
-- Function declaration  
-- Pass by value/reference  
-- Scope  
+- User-defined functions  
+- Passing parameters  
+- Return values  
 
 ### 🔹 **4. Arrays & Strings**
-- 1D Arrays  
-- Character Arrays  
-- String handling  
+- Declaring arrays  
+- Character arrays  
+- Basic string operations  
 
 ### 🔹 **5. Pointers**
-- Pointer basics  
+- Pointer variables  
+- & and * operators  
 - Pointer arithmetic  
-- Pointer to array  
 
 ### 🔹 **6. OOP Basics**
-- Classes & Objects  
+- Classes  
+- Objects  
 - Constructors  
-- Access Modifiers  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="400"/>
+  <img src="https://raw.githubusercontent.com/avinash-218/avinash-218/main/code.gif" width="420"/>
 </p>
 
 ---
@@ -76,15 +71,53 @@ Basic-cpp/
 ├── loops.cpp
 ├── functions.cpp
 ├── arrays.cpp
-├── pointers.cpp
 ├── strings.cpp
+├── pointers.cpp
 ├── oops.cpp
 └── README.md
 ```
 
 ---
 
-## 🛠️ Tech Used
+## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://ski
+  <img src="https://skillicons.dev/icons?i=cpp,github,vscode" />
+</p>
+
+---
+
+## 🎯 Goals
+- Build strong **C++ basics**  
+- Improve coding confidence  
+- Form foundation for DSA  
+- Learn clean code practices  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Handshake.gif" width="330"/>
+</p>
+
+---
+
+## 🌟 Progress
+
+This folder will keep expanding as I learn new C++ topics and practical examples.
+
+---
+
+## ⭐ Support
+
+If you found this useful, please:  
+### 🌟 **Give this repo a STAR!** 🌟
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Rocket.gif" width="200" />
+</p>
+
+---
+
+## 💙 Thank You for Visiting!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Hi.gif" width="160"/>
+</p>
