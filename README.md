@@ -61,10 +61,6 @@ Perfect for anyone starting their **C++ programming journey**!
 - Constructors  
 - Access Modifiers  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="400"/>
-</p>
-
 ## 🛠️ Tech Used
 
 <p align="center">
