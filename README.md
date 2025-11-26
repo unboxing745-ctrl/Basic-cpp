@@ -7,7 +7,7 @@
 <h1 align="center">🚀 Basic C++ – Coding Starts Here 🚀</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/Assets/coding/coding-neon.gif" width="330" />
+ <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/Assets/coding/minimal-laptop.gif" width="330" />
 </p>
 
 ---
